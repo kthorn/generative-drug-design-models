@@ -40,3 +40,9 @@ Generative AI for designing and validating easily synthesizable and structurally
 
 Reinvent 4: Modern AI–driven generative molecule design
 [repo](https://github.com/MolecularAI/REINVENT4), [paper](https://link.springer.com/article/10.1186/s13321-024-00812-5)
+
+### CReM, 2020
+
+CReM: chemically reasonable mutations framework for structure generation
+
+[repo](https://github.com/DrrDom/crem), [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00431-w)
