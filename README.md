@@ -27,6 +27,7 @@ These are other generative models for drug design that don't fit in the categori
 ### ShEPhERD, 2024
 
 ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design
+
 [repo](https://github.com/coleygroup/shepherd), [paper](https://arxiv.org/pdf/2411.04130)
 
 ### PocketXMol, 2024
