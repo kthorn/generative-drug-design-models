@@ -24,6 +24,12 @@ Equivariant 3D-conditional diffusion model for molecular linker design
 
 These are other generative models for drug design that don't fit in the categories above, or that I haven't had a chance to review yet.
 
+### DiffSBDD, 2024
+
+Structure-based drug design with equivariant diffusion models
+
+[repo](https://github.com/arneschneuing/DiffSBDD), [paper](https://www.nature.com/articles/s43588-024-00737-x)
+
 ### ShEPhERD, 2024
 
 ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design
@@ -77,6 +83,12 @@ PocketFlow is a data-and-knowledge-driven structure-based molecular generative m
 DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion Model
 
 [repo](https://github.com/biomed-AI/DiffDec), [paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01466)
+
+### LIMO, 2022
+
+LIMO: Latent Inceptionism for Targeted Molecule Generation
+
+[repo](https://github.com/Rose-STL-Lab/LIMO), [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9527083/)
 
 ### OpenChem, 2022
 
