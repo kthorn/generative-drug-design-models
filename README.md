@@ -24,6 +24,18 @@ Equivariant 3D-conditional diffusion model for molecular linker design
 
 These are other generative models for drug design that don't fit in the categories above, or that I haven't had a chance to review yet.
 
+### FuncMol, 2024
+
+Score-based 3D molecule generation with neural fields
+
+[repo](https://github.com/prescient-design/funcmol), [paper](https://openreview.net/forum?id=9lGJrkqJUw)
+
+### JANUS, 2024
+
+Stereochemistry-aware string-based molecular generation
+
+[repo](https://github.com/aspuru-guzik-group/stereogeneration), [paper](https://chemrxiv.org/engage/chemrxiv/article-details/6757d4eef9980725cf93c698)
+
 ### DiffSBDD, 2024
 
 Structure-based drug design with equivariant diffusion models
