@@ -24,6 +24,12 @@ Equivariant 3D-conditional diffusion model for molecular linker design
 
 These are other generative models for drug design that don't fit in the categories above, or that I haven't had a chance to review yet.
 
+### TopMT, 2025
+
+TopMT-GAN: a 3D topology-driven generative model for efficient and diverse structure-based ligand design
+
+[repo](https://github.com/aeghnnsw/TopMT), [paper](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc05211k)
+
 ### FuncMol, 2024
 
 Score-based 3D molecule generation with neural fields
