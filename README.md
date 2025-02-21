@@ -20,9 +20,15 @@ Equivariant 3D-conditional diffusion model for molecular linker design
 
 [repo](https://github.com/igashov/DiffLinker), [paper](https://www.nature.com/articles/s42256-024-00815-9)
 
-## Others
+## Protein structure-aware
 
-These are other generative models for drug design that don't fit in the categories above, or that I haven't had a chance to review yet.
+These are models that generate molecules using information from the bound protein structure to condition generation.
+
+### Delete, 2025
+
+Delete: Deep Lead Optimization Enveloped in Protein Pockets through Deleting Strategy combined with a structure-aware network
+
+[repo](https://github.com/HaotianZhangAI4Science/Delete), [paper](https://www.nature.com/articles/s42256-025-00997-w)
 
 ### TopMT, 2025
 
@@ -30,29 +36,11 @@ TopMT-GAN: a 3D topology-driven generative model for efficient and diverse struc
 
 [repo](https://github.com/aeghnnsw/TopMT), [paper](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc05211k)
 
-### FuncMol, 2024
-
-Score-based 3D molecule generation with neural fields
-
-[repo](https://github.com/prescient-design/funcmol), [paper](https://openreview.net/forum?id=9lGJrkqJUw)
-
-### JANUS, 2024
-
-Stereochemistry-aware string-based molecular generation
-
-[repo](https://github.com/aspuru-guzik-group/stereogeneration), [paper](https://chemrxiv.org/engage/chemrxiv/article-details/6757d4eef9980725cf93c698)
-
 ### DiffSBDD, 2024
 
 Structure-based drug design with equivariant diffusion models
 
 [repo](https://github.com/arneschneuing/DiffSBDD), [paper](https://www.nature.com/articles/s43588-024-00737-x)
-
-### ShEPhERD, 2024
-
-ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design
-
-[repo](https://github.com/coleygroup/shepherd), [paper](https://arxiv.org/pdf/2411.04130)
 
 ### PocketXMol, 2024
 
@@ -72,6 +60,40 @@ DiffInt: A Pharmacophore-Aware Diffusion Model for Structure-Based Drug Design w
 
 [repo](https://github.com/sekijima-lab/DiffInt), [paper](https://chemrxiv.org/engage/chemrxiv/article-details/66a70a1301103d79c51b3220)
 
+### Pocketflow, 2024
+
+PocketFlow is a data-and-knowledge-driven structure-based molecular generative model
+
+[repo](https://github.com/Saoge123/PocketFlow), [paper](https://www.nature.com/articles/s42256-024-00808-8)
+
+### DiffDec, 2024
+
+DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion Model
+
+[repo](https://github.com/biomed-AI/DiffDec), [paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01466)
+
+## Others
+
+These are other generative models for drug design that don't fit in the categories above, or that I haven't had a chance to review yet.
+
+### FuncMol, 2024
+
+Score-based 3D molecule generation with neural fields
+
+[repo](https://github.com/prescient-design/funcmol), [paper](https://openreview.net/forum?id=9lGJrkqJUw)
+
+### JANUS, 2024
+
+Stereochemistry-aware string-based molecular generation
+
+[repo](https://github.com/aspuru-guzik-group/stereogeneration), [paper](https://chemrxiv.org/engage/chemrxiv/article-details/6757d4eef9980725cf93c698)
+
+### ShEPhERD, 2024
+
+ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design
+
+[repo](https://github.com/coleygroup/shepherd), [paper](https://arxiv.org/pdf/2411.04130)
+
 ### ParetoDrug, 2024
 
 Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS
@@ -89,18 +111,6 @@ Generative AI for designing and validating easily synthesizable and structurally
 Reinvent 4: Modern AI–driven generative molecule design
 
 [repo](https://github.com/MolecularAI/REINVENT4), [paper](https://link.springer.com/article/10.1186/s13321-024-00812-5)
-
-### Pocketflow, 2024
-
-PocketFlow is a data-and-knowledge-driven structure-based molecular generative model
-
-[repo](https://github.com/Saoge123/PocketFlow), [paper](https://www.nature.com/articles/s42256-024-00808-8)
-
-### DiffDec, 2024
-
-DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion Model
-
-[repo](https://github.com/biomed-AI/DiffDec), [paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01466)
 
 ### LIMO, 2022
 
